@@ -31,8 +31,10 @@ del "C:\Program Files (x86)\Faronics\Insight\DFMirageDist\Inst\x86"
 del "C:\Program Files (x86)\Faronics\Insight\DFMirageDist\105"
 del "C:\Program Files (x86)\Faronics\Insight\DFMirageDist"
 del "C:\Program Files (x86)\Faronics\Insight\lsproxy"
-echo. TOUS A ETAIT SUPRIMER!!!
-echo. Si des probleme survienne contacter moi sur discord:
-echo. DARKSIDERS#1391
-echo. DARKSIDERS#9044
+title INSIGTH STUDENT DELETED
+color F1
+echo.----------------------------------------
+echo.  Insigth student a etait suprimer!!!
+echo.Merci d'avoir utiliser cette application
+echo.----------------------------------------
 pause
