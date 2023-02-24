@@ -1,3 +1,4 @@
+
 @echo off
 title Owl Deleter
 mode 60, 24
@@ -20,7 +21,9 @@ if "%usrchoice%"=="1" goto Delete
 :Delete
 title Delete The Owl [Delete]
 color 02
+echo.----------------------------------------------------------
 echo.    Etes vous sur de supprimer Insigth Student???
+echo.   Je ne suis en aucun cas responsable de vos actes.
 echo.-----------------------------------------------------------
 echo.
 del "C:\Program Files (x86)\Faronics\Insight\DFMirageDist\068" 
