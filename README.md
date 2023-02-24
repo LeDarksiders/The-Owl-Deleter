@@ -1,6 +1,8 @@
 # The-Owl-Deleter
 A tutorial that allows you to remove insight student, the software that allows your college supervisor to turn off, control or block your computer
 
+Le .bat vous permez de supprimer l'application plus vite !
+
 Use:
 ------------------
 Copy paste "TheOwlDeleter.bat" in a txt
